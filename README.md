@@ -107,10 +107,10 @@
   <section id="contato" class="contato">
     <h2>Fale Conosco</h2>
     <p>WhatsApp: (54) 996637814 ou 54999441816 </p>
-    <p>Email: contato@entregarapida.com</p>
+    <p>Email: edersomraquel@gmail.com</p>
     <h3>Nosso Local</h3>
     <iframe
-      src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3656.8552410592276!2d-46.65657418502558!3d-23.576006584669213!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce59c7555c3bfb%3A0xc5402f94fa58df2e!2sAv.%20Paulista%2C%20S%C3%A3o%20Paulo!5e0!3m2!1spt-BR!2sbr!4v1714437832541"
+      https://maps.app.goo.gl/xYwJZh2PvwUHs1SXA
       allowfullscreen=""
       loading="lazy">
     </iframe>
