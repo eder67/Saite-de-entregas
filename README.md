@@ -106,7 +106,7 @@
 
   <section id="contato" class="contato">
     <h2>Fale Conosco</h2>
-    <p>WhatsApp: (00) 91234-5678</p>
+    <p>WhatsApp: (54) 996637814 ou 54999441816 </p>
     <p>Email: contato@entregarapida.com</p>
     <h3>Nosso Local</h3>
     <iframe
